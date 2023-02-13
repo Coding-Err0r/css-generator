@@ -11,7 +11,7 @@
   <h3 align="center">CSS Generator</h3>
 
   <p align="center">
-    <a href="">CSS Generator</a>
+    <a href="https://css-generator-two.vercel.app/">CSS Generator</a>
     <br />
     <br />
   </p>
